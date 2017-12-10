@@ -89,3 +89,4 @@ fabric.properties
 /test
 /test2
 /word2vecData
+*.png
